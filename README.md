@@ -6,7 +6,7 @@ Designed and developed an interactive E-Commerce Sales &amp; Inventory Dashboard
 - <a href = "https://github.com/msameerhanif/-E-Commerce-Sales-Inventory-Insights/blob/main/E-Commerce%20Store_Data.xlsx">Dataset</a>
 
 ## Questions (KPIs) This Dashboard Answers
-# Sales Dashboard :
+### Sales Dashboard :
 - What is the total shipped revenue, shipped COGS, and profit?
 - How many units were shipped, and what is the revenue per unit?
 - What is the gross profit margin %?
