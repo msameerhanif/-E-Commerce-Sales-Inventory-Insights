@@ -66,4 +66,4 @@ The Amazon Power BI dashboards provide a holistic view of sales and inventory pe
 
 - Sales Performance: Strong overall revenue (1.11M) with positive profit margins (14.8%), though returns from key brands (SNH Packing, UNKNOWN) remain a challenge that reduces net profitability.
 - Inventory Management: Sellable inventory remains strong at AED 1.08M, but unsellable stock, though small (AED 4K), highlights inefficiencies in quality or warehousing.
-- Strategic Insight: Focusing on reducing returns and controlling unsellable inventory can improve overall profitability. SNH Packing dominates both revenue and inventory, meaning business reliance is high on one brand — diversification could reduce risk.
+- Strategic Insight: Focusing on reducing returns and controlling unsellable inventory can improve overall profitability. SNH Packing dominates both revenue and inventory, meaning business reliance is high on one brand; diversification could reduce risk.
