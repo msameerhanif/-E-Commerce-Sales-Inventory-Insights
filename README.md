@@ -13,7 +13,7 @@ Designed and developed an interactive E-Commerce Sales &amp; Inventory Dashboard
 - How do monthly shipped revenue, COGS, and profit trend over time?
 - Which brands contribute most to revenue and profit?
 - Which brands face the highest customer returns?
-# Inventory Dashboard:
+### Inventory Dashboard:
 - What is the total net received inventory value and units?
 - What is the total sellable on-hand inventory value and units?
 - What is the unsellable on-hand inventory value and units?
@@ -46,13 +46,13 @@ Designed and developed an interactive E-Commerce Sales &amp; Inventory Dashboard
 - Bar chart for year-over-year quantity sold.
 
 ## Project Insights:
-# Sales Dashboard:
+### Sales Dashboard:
 - Shipped Revenue: 1,114K with Profit of 165K → Profit margin 14.8%.
 - Revenue per Unit: 16 AED shows healthy average selling price.
 - Top Brand by Revenue: SNH Packing (758.1K revenue, 26.83K profit).
 - Customer Returns: SNH Packing (561), UNKNOWN (112), and SherrifDrink (100) face highest returns → impacts profit.
 - Monthly Trend: Revenue peaked in Feb (171K) but declined after May (167K → 155K in Jul).
-# Inventory Dashboard:
+### Inventory Dashboard:
 - Net Received Inventory: AED 845K (61K units).
 - Sellable On Hand Inventory: AED 1,084K (94K units).
 - Unsellable On Hand Inventory: AED 4K (192 units).
